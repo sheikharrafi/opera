@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Opera Mini</string>
+    <string name="search_or_enter_address">Search or enter address</string>
+    <string name="speed_dial">Speed Dial</string>
+    <string name="data_savings">Data Savings</string>
+    <string name="ad_blocker">Ad Blocker</string>
+    <string name="downloads">Downloads</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="history">History</string>
+    <string name="offline_pages">Saved Pages</string>
+    <string name="night_mode">Night Mode</string>
+    <string name="desktop_site">Desktop Site</string>
+    <string name="settings">Settings</string>
+    <string name="new_tab">New Tab</string>
+    <string name="private_tab">Private Tab</string>
+    <string name="clear_history">Clear History</string>
+    <string name="reader_mode">Reader Mode</string>
+    <string name="find_in_page">Find in page</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Opera Mini",
+  "description": "Fast, feature-packed web browser with data savings, ad blocker, multi-tab browsing, offline pages, downloads manager, and speed dial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
